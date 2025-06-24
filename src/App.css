@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.text-ntechlab-title {
+  color: #FFF2F2;
+  -webkit-text-stroke: .09px #a07f88; /* Pink stroke like outer circle border */
+  text-shadow:
+    0 0 2vw rgba(255, 242, 242, 0.9), /* outer glow */
+    0 0 1vw #d5436f;                  /* pink tint */
+}
